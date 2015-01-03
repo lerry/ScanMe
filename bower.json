@@ -1,0 +1,8 @@
+{
+  "name": "scanme",
+  "version": "0.0.0",
+  "dependencies": {
+    "qrcodejs": "~0.1.0"
+  },
+  "devDependencies": {}
+}
