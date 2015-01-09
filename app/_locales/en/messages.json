@@ -1,10 +1,10 @@
 {
   "appName": {
     "message": "ScanMe",
-    "description": "The name of the application"
+    "description": "ScanMe"
   },
   "appDescription": {
-    "message": "scan the qr code to open url on you cellphone.",
+    "message": "A Chrome extension that you can scan the qr code to open url on you cellphone.",
     "description": "The description of the application"
   }
 }

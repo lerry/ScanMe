@@ -1,12 +1,12 @@
 {
     "name": "__MSG_appName__",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "manifest_version": 2,
     "description": "__MSG_appDescription__",
     "icons": {
         "128": "images/icon-128.png"
     },
-    "default_locale": "en",
+    "default_locale": "zh",
     "browser_action": {
         "default_icon": {
             "128": "images/icon-128.png"
